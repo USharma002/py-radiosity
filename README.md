@@ -45,6 +45,8 @@ This is kind of a 'work around' since I am doing the following which I'll eventu
 
 - I'm getting a decent image for simple scenes as of now.
 - I'm able to load `.obj` files (not just Cornell box).
+- Some of the components have been vectorized
+- A barebones visualization of triangles
 
 ---
 
