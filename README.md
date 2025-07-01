@@ -48,8 +48,8 @@ This is kind of a 'work around' since I am doing the following which I'll eventu
 
 ---
 
-### ❌ What needs to be fixed:
-
+### ❌ What needs to be fixed/implemented:
+- Adaptive patching so we don't have a lot of unnecessary triangles.
 - I'm saving each triangle separately in `.obj` file due to not being able to create a triangle in Mitsuba directly (or I don't know how).  
   Hopefully I'll implement my own rendering code or fix this for Mitsuba somehow in future.
 - The code for radiosity is kind of brute-force and needs to be improved.
