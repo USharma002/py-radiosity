@@ -86,3 +86,16 @@ This is kind of a 'work around' since I am doing the following which I'll eventu
   <img src="assets/finalscene_radiosity.png" alt="Radiosity Result" width="300"/>
   <img src="assets/final_scene_rt.png" alt="Ray Tracing Result" width="300"/>
 </p>
+
+## 🎞️ GIF of passes (Left: Constant, Right:Interpolated)
+
+<p float="left">
+  <img src="assets/progressive_cbox.gif" alt="CBox Radiosity GIF" width="300"/>
+  <img src="assets/progressive_cbox_smooth.gif" alt="CBox Path Tracing GIF" width="300"/>
+</p>
+
+<p float="left">
+  <img src="assets/progressive_cboxs.gif" alt="CBox Sphere Radiosity GIF" width="300"/>
+  <img src="assets/progressive_cboxs_smooth.gif" alt="CBox Sphere Path Tracing GIF" width="300"/>
+</p>
+
